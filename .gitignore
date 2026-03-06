@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+CodeBase/.venv/
+
+# environment variables
+.env
+.env.*
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# installation scripts
+get-pip.py
