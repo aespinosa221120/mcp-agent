@@ -1,12 +1,18 @@
-# virtual environment
+# Python virtual environments
 .venv/
+CodeBase/.venv/
 
 # environment variables
 .env
+.env.*
 
 # python cache
 __pycache__/
 *.pyc
 
-# install script
+# OS junk
+.DS_Store
+Thumbs.db
+
+# installation scripts
 get-pip.py
