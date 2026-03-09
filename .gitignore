@@ -16,3 +16,9 @@ Thumbs.db
 
 # installation scripts
 get-pip.py
+
+.python-version 
+
+uv.lock
+
+pyproject.toml
